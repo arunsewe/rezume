@@ -4,7 +4,7 @@ import ProjectCard from "./ui/ProjectCard"
 
 const Work = () => {
     return (
-        <div>
+        <div id="work">
             <Title text="Work" />
             <div className="grid md:grid-cols-2 gap-5 my-5">
                 <ProjectCard
