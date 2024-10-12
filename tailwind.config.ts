@@ -12,8 +12,15 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      container: {
+        center: true, // Center the container
+        screens: {
+          lg: '1240px', // Set the max-width for large screens
+        },
+      },
     },
   },
   plugins: [],
 };
+
 export default config;
