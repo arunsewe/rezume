@@ -9,7 +9,7 @@ const StickySidebar = () => {
                 <h2 className="text-xl font-bold mt-4">Ethan Raynolds</h2>
                 <p className="font-bold mb-4">Web Developer</p>
                 <p className="text-sm leading-relaxed">
-                    I'm Ethan Reynolds, a passionate web developer specializing in building modern, user-friendly websites and applications. With a focus on clean code, performance, and seamless user experiences, I love turning ideas into functional digital products that make an impact.
+                    I&apos;m Ethan Reynolds, a passionate web developer specializing in building modern, user-friendly websites and applications. With a focus on clean code, performance, and seamless user experiences, I love turning ideas into functional digital products that make an impact.
                 </p>
             </div>
 
