@@ -1,7 +1,7 @@
 "use client"
 import Link from "next/link";
 import React from "react";
-import { FaEnvelope, FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const StickyHeader: React.FC = () => {
   // Function to handle smooth scroll to a specific section
