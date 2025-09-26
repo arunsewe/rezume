@@ -40,16 +40,13 @@ const StickyHeader: React.FC = () => {
           </button>
         </div>
         <div className="flex gap-3 items-center">
-          <Link href="https://linkedin.com/" target="_blank">
+          <Link href="https://www.linkedin.com/in/ayanfeoluwa-runsewe-527009335/" target="_blank">
             <FaLinkedin className="text-4xl rounded-lg duration-300 hover:bg-neutral-900 bg-neutral-800 p-2" />
           </Link>
-          <Link href="https://facebook.com/" target="_blank">
-            <FaFacebook className="text-4xl rounded-lg duration-300 hover:bg-neutral-900 bg-neutral-800 p-2" />
-          </Link>
-          <Link href="https://github.com/" target="_blank">
+          <Link href="https://github.com/arunsewe?tab=repositories" target="_blank">
             <FaGithub className="text-4xl rounded-lg duration-300 hover:bg-neutral-900 bg-neutral-800 p-2" />
           </Link>
-          <Link href="mailto:example@gmail.com" target="_blank">
+          <Link href="mailto:ayanferunsewe@gmail.com" target="_blank">
             <FaEnvelope className="text-4xl rounded-lg duration-300 hover:bg-neutral-900 bg-neutral-800 p-2" />
           </Link>
         </div>
